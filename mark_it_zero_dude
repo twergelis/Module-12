@@ -1,0 +1,14 @@
+#Create Markdown File
+  #Created "R_Markdown.txt" file in Microsoft Notepad as follows...
+
+R Markdown Test
+
+```{r}
+summary(cars)
+```
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+#Import to RStudio
